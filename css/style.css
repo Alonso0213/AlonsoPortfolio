@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/*root
+:root{
+--primamryColour:rgb(238, 226, 226);
+--secondaryColour:white;
+--alternateColour:grey;
+--bordercolour:#e8e2d4;
+font-family: 'Sedgwick Ave Display'
+}*/
+/*logo*/
+body{
+    font-family: 'Sedgwick Ave Display'
+} 
+#logo{
+    width: 5rem; 
+}
+#p{
+    font-size: 2em;
+    color: #e8e2d4;
+    font-weight: light;
+    
+}
+body{background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsyBlZH8zwuGFLwDL8JYj2_1k6s0hrxD9SWQ&usqp=CAU);
+
+
+}
