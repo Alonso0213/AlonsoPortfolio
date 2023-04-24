@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+/*root
+:root{
+--primamryColour:rgb(238, 226, 226);
+--secondaryColour:white;
+--alternateColour:grey;
+--bordercolour:#e8e2d4;
+font-family: 'Sedgwick Ave Display'
+}*/
+/*logo*/
+/*body{
+    font-family: 'Sedgwick Ave Display'
+} */
+#he{
+    border-style: solid;
+    border-color: rgb(227, 6, 6);
+    margin: 2rem;
+    padding: 0rem;
+}
+#logo{
+    width: 5rem; 
+    
+}
+#nav_bar{
+    color: red;
+
+}
+#main{
+    border-style: solid;
+    border-color: rgb(50, 227, 6);
+    margin: 2rem;
+    padding: 0rem;
+
+}
+#list{
+    display:flex;
+justify-content: space-evenly;
+
+}
+
+#p{
+    font-size: 2em;
+    color: #000000;
+    font-weight: light;
+    
+    
+}
+body{background-image: url(https://c4.wallpaperflare.com/wallpaper/453/844/953/enter-skull-hacker-hacking-wallpaper-preview.jpg);
+background-size: cover;
+
+}
